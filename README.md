@@ -1,2 +1,1 @@
-# My-first-project
-This is my first github project
+Python homework
